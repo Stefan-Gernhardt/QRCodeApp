@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR code generator (ad free)</string>
+    <string name="generateQRcodeButton">create</string>
+    <string name="enter_your_text">enter your text</string>
+    <string name="hint_enter_your_text">enter your text</string>
+    <string name="output">Output</string>
+    <string name="backbutton">backButton</string>
+    <string name="name">Name</string>
+</resources>
